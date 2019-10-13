@@ -1,0 +1,11 @@
+section{
+    border:3px solid#00bfff;
+    border-radius: 1vw;
+}
+
+section a {
+    color: #00bfff;
+}
+section h3 a{
+    color: blue;
+}
